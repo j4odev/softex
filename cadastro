@@ -1,0 +1,42 @@
+Algoritmo "cadastro"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Victor Sotero
+// Descrição   : Listagem de conteúdo
+// Autor(a)    : João Lucas da Silva Alves
+// Data atual  : 26/07/2022
+Var
+// Seção de Declarações das variáveis 
+nome, rua, endereco, cidade, nome_pai, nome_mae, cpf: caractere
+rg, idade: inteiro
+peso, renda: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+Escreval("Qual o seu nome?")
+leia (nome)
+Escreval ("Numero de seu CPF?")
+leia (cpf)
+Escreval ("Qual a sua idade?")
+leia (idade)
+Escreval ("Número de seu RG?")
+leia (rg)
+Escreval ("Qual o nome do seu pai?")
+leia (nome_pai)
+Escreval ("Qual o nome da sua mãe?")
+leia (nome_mae)
+Escreval ("Nome da cidade onde mora?")
+leia (cidade)
+Escreval ("Nome da rua onde mora?")
+leia (rua)
+endereco <- (rua) "-" (cidade)
+Escreval ("Qual o seu peso?")
+leia (peso)
+Escreval ("Qual a sua renda?")
+leia (renda)
+
+Escreval (" ")
+Escreval (" O seu nome é ", (nome), " registrado no CPF de número ", (cpf), " e RG de número ", (rg),". Tem, ", (idade), " anos e pesa ", (peso), ". É filho de ", (nome_mae), " e ", (nome_pai), ". Reside no endereço: ", (cidade), " - ", (rua), ". Possui renda de ", (renda), ".")
+
+
+Fimalgoritmo
