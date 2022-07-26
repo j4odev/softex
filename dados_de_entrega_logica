@@ -1,0 +1,57 @@
+Algoritmo "dados_de_entrega"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Victor Sotero
+// Descrição   : Proposta interativa e íntima para uma entrega de encomenda.
+// Autor(a)    : JOÃO LUCAS DA SILVA ALVES
+// Data atual  : 26/07/2022
+// Linguagem: Portugol (VISUALg)
+
+Var
+
+nome, cpf, rua, bairro, cidade, uf: caractere
+// A proposta do CPF estar presente no campo de variáeis do tipo caractere, é porque as variáveis do tipo  inteiro só permitem 9 dígitos. O dado CPF possui 11 dígitos.
+rg, numero_casa: inteiro
+altura: real
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+Escreval ("Para que o Correios realize sua entrega, precisamos de alguns dados.")
+Escreval (" ")
+Escreval ("Qual o seu nome completo?")
+leia (nome)
+Escreval (" ")
+Escreval ("Olá, " ,(nome),"! Agora, digite o seu CPF:")
+Escreval (" ")
+leia (cpf)
+Escreval (" ")
+Escreval ("Só mais alguns números! Dessa vez, do seu RG:")
+leia (rg)
+Escreval (" ")
+Escreval ("Certo! Enquanto a sua localização, me informa sua cidade de residência:")
+leia (cidade)
+Escreval (" ")
+Escreval ("UF:")
+leia (uf)
+Escreval (" ")
+Escreval ("Em que rua você mora?")
+leia (rua)
+Escreval (" ")
+Escreval ("E o número da residência?")
+leia (numero_casa)
+Escreval (" ")
+Escreval ("Fica em qual bairro?")
+leia (bairro)
+Escreval (" ")
+Escreval ("Hmmm... Por último mas nem por isso menos importante, me informa sua altura. Vai que um doguinho recebe por ti. :3")
+leia (altura)
+Escreval (" ")
+Escreval ((nome), "obrigado pelos dados. Esse será o endereço em que sua encomenda será entregue:")
+Escreval (" ")
+Escreval ("Nome: ",(nome))
+Escreval ("CPF: ", (cpf))
+Escreval ("RG: ", (rg))
+Escreval ("Altura: ", (altura))
+Escreval ("Endereço: ",(rua), ", " ,(numero_casa), " - " ,(bairro), " - " ,(cidade), "/" ,(uf))
+
+fimalgoritmo
