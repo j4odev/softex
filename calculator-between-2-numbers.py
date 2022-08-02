@@ -1,25 +1,25 @@
 def soma():
     x = float(input("Valor 1: "))
     y = float(input("Valor 2: "))
-    print("Soma: ", x+y)
+    print("A soma dos valores é de: ", x+y)
 
 
 def subtracao():
     x = float(input("Valor 1: "))
     y = float(input("Valor 2: "))
-    print("Subtracao: ", x-y)
+    print("A subtração dos valores é de: ", x-y)
 
 
 def multiplicacao():
     x = float(input("Valor 1: "))
     y = float(input("Valor 2: "))
-    print("Multiplicacao: ", x*y)
+    print("A multiplicação dos valores é de: ", x*y)
 
 
 def divisao():
     x = float(input("Valor 1: "))
     y = float(input("Valor 2: "))
-    print("Divisao: ", x/y)
+    print("A divisão dos valores é de: ", x/y)
 
 
 opcao = 1
