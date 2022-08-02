@@ -23,6 +23,6 @@ elif n3 <= 6.9 and f >= 3:
           f, "faltas, e também ficou uma média de", n3, "e foi reprovado(a).")
 
 print("")
-print("-----")
+print("------------------------------")
 print("Copyright (C) 2022 João Lucas.")
-print("-----")
+print("------------------------------")
