@@ -1,0 +1,16 @@
+1º imagem: 11 Português e 14 Matemática = 25 alunos
+https://drive.google.com/file/d/1sbDqBEmzTiaW7ZtcLpB48SwH4uiuTCG3/view
+
+2º imagem: 18 Português e 18 Matemática = 36 alunos
+https://drive.google.com/file/d/11JmohZOnc2g_gudHJXu5y81F4efR2TMn/view
+
+3º imagem: 19 Português e 17 Matemática = 36 alunos
+https://drive.google.com/file/d/1r8zyBImECwBQPh2DJHDBA8vYDMn-r1Gp/view
+
+
+Em cada coluna da 2º imagem temos um padrão que são 4 que gostam de tal disciplina e 2 de outra.
+Na 3º imagem, a 5º coluna “foge” do padrão, que agora é 3 de uma disciplina e 3 da outra. O que entra em conflito com o fato de que na 2º imagem temos exatos
+18 alunos em português e exatos 18 alunos em matemática. Então a possível resposta é de que não só houve troca de 2 alunos próximos da 5º linha e 5º coluna com os
+seus próximos, como também o aluno que trocou de cadeira decidiu ficar com Matemática mas o que foi para a cadeira do aluno que era de matemática decidiu trocar para
+a disciplina de Português. Ou seja, o aluno da (linha-5,coluna-5) trocou de lugar com o aluno (5,6) e esse aluno que era de matemática decidiu optar pela disciplina de
+português e ficando no lugar do (5,5).
