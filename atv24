@@ -1,0 +1,11 @@
+package ciacompany.com.aeroservic.passagem*; 
+
+  class Passagem {
+        String forma;
+        String local;
+        Real pagamento;
+        Int classe;
+    }
+
+O diretório será ciacompany/com/aeroservic/passagem
+
