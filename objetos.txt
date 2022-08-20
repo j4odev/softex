@@ -1,0 +1,28 @@
+Objetos materiais;
+
+Objeto: Cachorro
+Atributos:
+Cor, idade, tamanho, castrado, raça.
+Métodos:
+Latir, comer, brincar.
+
+Objeto: Carro
+Atributos:
+Modelo, cor, preço, combustível
+Métodos:
+Andar, acelerar, buzinar.
+
+
+Objetos abstratos;
+
+Objeto: Banco
+Atributos:
+Conta, agência, valor, extrato, transação
+Métodos:
+Sacar, depositar, pagar, transferir.
+
+Objeto: Série
+Atributos:
+Tipo, temporadas, faixa etária
+Métodos:
+Assistir, comentar, finalizar.
