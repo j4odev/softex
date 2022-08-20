@@ -1,0 +1,21 @@
+def aumentar_primeira_letra(string):
+  nova_string_cap = string.capitalize()
+  return nova_string_cap
+  
+print(aumentar_primeira_letra("carro"))
+
+def encontrar_palavras_e_tamanho(string, termo):
+  palavra_encontrada = string.find(termo)
+  tamanho_palavra = len(string)
+  return palavra_encontrada, tamanho_palavra
+
+a, b = encontrar_palavras_e_tamanho("Comida amarga, eu prometi, que era um adeus, que era um sinal. Mas Deus bem sabe o quanto eu rezei pra ser vulgar como um anjo", "prometi")
+
+print(f"A palavra/frase está na posição {a} e o seu tamanho é {b}.")
+
+def aumentar_e_substituir(string, substituir, substituirpor):
+  substituindo_palavra = string.replace(substituir, substituirpor)
+  nova_palavra = substituindo_palavra.upper()
+  return nova_palavra
+  
+print(aumentar_e_substituir("desculpa a demora, outra vez me perdi", "me perdi", "morri"))
