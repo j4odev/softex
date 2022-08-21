@@ -1,0 +1,7 @@
+Site 1:
+https://listen.tidal.com/
+"Play button", elemento que serve para dar continuidade a música que estava sendo reproduzida anteriormente.
+
+Site 2:
+https://imusic.br.com/
+Botão "vinil" na navbar, elemento que serve para acessar uma página que mostra apenas os produtos categorizados como "Vinil".
