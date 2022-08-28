@@ -1,3 +1,5 @@
+// EXECUTAR NO CHROME COM BASE HTML E SCRIPT INDEXADO.
+
 /* Proposta 1: Crie dois códigos de sistema de notas para uma escola. O primeiro código deve ser um programa que informa se o aluno reprovou, ou não,
 com base nas três notas que ele adicionou ao programa. Utilize, no mínimo, um operador de atribuição e um operador ternário. */.
 
