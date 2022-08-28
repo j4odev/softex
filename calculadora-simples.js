@@ -1,3 +1,5 @@
+// EXECUTAR NO CHROME COM BASE HTML E SCRIPT INDEXADO.
+
 // Calculadora simples c/ retorno de sobras
 
 /* Proposta: Com os conceitos aprendidos, crie um programa de calculadora que: 
