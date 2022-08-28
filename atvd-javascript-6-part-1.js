@@ -1,8 +1,12 @@
 /* Proposta 1: Crie dois códigos de sistema de notas para uma escola. O primeiro código deve ser um programa que informa se o aluno reprovou, ou não,
 com base nas três notas que ele adicionou ao programa. Utilize, no mínimo, um operador de atribuição e um operador ternário. */.
 
+// Criando interação com usuário
+
 const nome = prompt("Qual o seu nome? ");
 const matricula = prompt("Qual a sua matrícula? ");
+
+// Atribuindo valores
 
 const nota1 = parseFloat(prompt("Insira a primeira nota: "));
 const nota2 = parseFloat(prompt("Insira a primeira nota: "));
