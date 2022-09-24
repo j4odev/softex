@@ -62,9 +62,3 @@ if __name__ == "__main__":
   client_code(Usuario('Configurações:'))
   print("\n")
   client_code(Servidor('Configurações:'))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
